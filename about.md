@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently a P.hD. student at Washington University in St.Louis! I obtained my bachelor's degree from both Chongqing University of Post & Telecommunication and Northern Arizona University majoring in Electrical Engineering. 
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[peijie.qiu@wustl.edu](mailto:peijie.qiu@wustl.edu)
